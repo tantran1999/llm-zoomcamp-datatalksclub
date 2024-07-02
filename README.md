@@ -1,1 +1,1 @@
-# llm-zoomcap-datatalksclub
+# llm-zoomcamp-datatalksclub
